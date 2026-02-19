@@ -1,5 +1,4 @@
 # Advacing-Nutrition-Science-thruogh-GeminiAI
-# smartinternz08-genAI-NutritionAppGeminiAI-Shahib
 
 # NutriSense AI
 ## About
