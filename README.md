@@ -71,8 +71,3 @@ The code sets up a Streamlit application with the following key functionalities:
 **-> Pie Chart Visualization:** Generates a pie chart representing the nutritional breakdown of the meal.
 
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-For any inquiries or issues, please contact sahibsaifi12291@gmail.com.com.
